@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hey, jij! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Leer%2C+codeer%2C+reflecteer.;Full+Stack+Developer%F0%9F%9A%80)](https://git.io/typing-svg)
-
 - 🔭 Ik werk op dit moment veel aan Full Stack applicaties
 - 🌱 Ik leer op dit moment veel over low level programming (c/c++/rust)
 - 👯 Ik zou graag jouw ideeën willen horen en misschien raak ik er wel gepassioneerd over.
@@ -90,4 +89,8 @@
 ![AWS](/assets/svg/aws.svg)
 ![GCP](/assets/svg/googlecloud.svg)
 
+## Recent Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [ThePictureBooth: Mijn eerste GROTE fullstack app](https://aichou.nl/blog/thepicturebooth)
+<!-- BLOG-POST-LIST:END -->
