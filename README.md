@@ -89,7 +89,7 @@
 ![AWS](/assets/svg/aws.svg)
 ![GCP](/assets/svg/googlecloud.svg)
 
-## Recent Blog Posts
+## Recente Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [ThePictureBooth: Mijn eerste GROTE fullstack app](https://aichou.nl/blog/thepicturebooth)
